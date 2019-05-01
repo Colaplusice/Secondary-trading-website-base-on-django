@@ -85,10 +85,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'salt_fish',
         'HOST': '127.0.0.1',
-        # 'HOST': '67.230.163.74',
         "USER": 'root',
         'PASSWORD': 'root',
-        # 'PASSWORD': 'Cqh,19920718'
     }
 }
 
